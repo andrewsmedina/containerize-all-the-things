@@ -5,11 +5,15 @@ Andrews Medina
 globo.com
 @andrewsmedina
 
+
+
 * Containers
 
 * Docker
 
 * Criando o primeiro container
+
+.code hello.go
 
 * Dockerfile
 
