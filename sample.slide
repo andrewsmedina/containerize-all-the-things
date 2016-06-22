@@ -17,4 +17,6 @@ globo.com
 
 * Dockerfile
 
+.code alpine.go
+
 * Docker images
