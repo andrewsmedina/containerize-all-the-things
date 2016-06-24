@@ -77,6 +77,12 @@ globo.com
 
 .code docker-py.go
 
+* tsuru.io
+
+Torna deploys mais simples, rápidos e divertidos (usando Docker).
+
+.code tsuru.go
+
 * Resumindo
 
 - Docker padroniza e simplifica o build e a distribuição de app's
