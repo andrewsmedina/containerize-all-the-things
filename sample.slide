@@ -29,6 +29,14 @@ globo.com
 
 .code interactive.go
 
+* Container em background
+
+.code background.go
+
+* Parando um container
+
+.code stop.go
+
 * Imagens Docker
 
 - hub.docker.com
