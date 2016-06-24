@@ -45,7 +45,9 @@ globo.com
 
 .code search.go
 
-* Rodando o container em background
+* Usando uma imagem
+
+.code hello.go
 
 * Dockerfile
 
