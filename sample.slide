@@ -44,6 +44,10 @@ globo.com
 
 .image shipping-container-for-code.png
 
+* Container como solução
+
+.image eliminates-matrix-from-hell.png
+
 * Criando o primeiro container
 
 .code hello.go
