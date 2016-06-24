@@ -57,6 +57,10 @@ globo.com
 
 .code stopped.go
 
+* Executando um container parado
+
+.code start.go
+
 * Dockerfile
 
 .code alpine.go
