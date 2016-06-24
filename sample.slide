@@ -81,6 +81,10 @@ globo.com
 
 * Containerize all the things!
 
+* Docker + Plone
+
+.code plone.go
+
 * Docker + Minecraft
 
 .code minecraft.go
