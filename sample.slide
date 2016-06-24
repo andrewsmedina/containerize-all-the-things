@@ -24,6 +24,10 @@ globo.com
 
 .image the-challenge.png
 
+* The challenge
+
+.image the-matrix-from-hell.png
+
 * Criando o primeiro container
 
 .code hello.go
