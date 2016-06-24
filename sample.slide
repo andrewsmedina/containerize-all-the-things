@@ -68,3 +68,9 @@ globo.com
 * Dockerfile
 
 .code alpine.go
+
+* Resumindo
+
+- Docker padroniza e simplifica o build e a distribuição de app's
+- É fácil usar Docker
+- É fácil usar Docker com Python 
