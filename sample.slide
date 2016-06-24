@@ -25,6 +25,10 @@ globo.com
 
 .code hello.go
 
+* Container em modo interativo
+
+.code interactive.go
+
 * Imagens Docker
 
 - hub.docker.com
