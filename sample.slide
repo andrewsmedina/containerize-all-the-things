@@ -53,6 +53,10 @@ globo.com
 
 .code push.go
 
+* Listando containers parados
+
+.code stopped.go
+
 * Dockerfile
 
 .code alpine.go
