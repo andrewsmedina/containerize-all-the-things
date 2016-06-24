@@ -49,6 +49,10 @@ globo.com
 
 .code hello.go
 
+* Enviando uma imagem para o Docker hub
+
+.code push.go
+
 * Dockerfile
 
 .code alpine.go
