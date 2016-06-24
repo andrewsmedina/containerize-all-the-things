@@ -5,18 +5,38 @@ Andrews Medina
 globo.com
 @andrewsmedina
 
+* Who Am I
 
+- globo.com desde 2008
+- @andrewsmedina
+- github.com/andrewsmedina
+- Docker user before it was cool
+
+* Docker
+
+- build, deploy e execute qualquer aplicação em qualquer lugar
 
 * Containers
 
-* Docker
+* Containers
+
 
 * Criando o primeiro container
 
 .code hello.go
 
+* Imagens Docker
+
+- hub.docker.com
+
+* Imagens Docker
+
+.code search.go
+
+* Rodando o container em background
+
 * Dockerfile
 
 .code alpine.go
 
-* Docker images
+* Logs

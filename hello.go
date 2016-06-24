@@ -1,1 +1,1 @@
-docker run phusion/baseimage echo "Hello."
+docker run busybox echo "caipyra"
