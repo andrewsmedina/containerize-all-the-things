@@ -96,6 +96,10 @@ globo.com
 
 .code alpine.go
 
+* Métricas de um container
+
+.code stats.go
+
 * Usando o Docker com Python
 
 .code docker-py-install.go
