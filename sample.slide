@@ -37,6 +37,18 @@ globo.com
 
 .code stop.go
 
+* Listando containers parados
+
+.code stopped.go
+
+* Executando um container parado
+
+.code start.go
+
+* Docker e Python
+
+.code python3.go
+
 * Imagens Docker
 
 - hub.docker.com
@@ -53,24 +65,20 @@ globo.com
 
 .code push.go
 
-* Listando containers parados
-
-.code stopped.go
-
-* Executando um container parado
-
-.code start.go
-
-* Docker e Python
-
-.code python3.go
-
 * Dockerfile
 
 .code alpine.go
+
+* Usando o Docker com Python
+
+.code docker-py-install.go
+
+* Usando o Docker com Python
+
+.code docker-py.go
 
 * Resumindo
 
 - Docker padroniza e simplifica o build e a distribuição de app's
 - É fácil usar Docker
-- É fácil usar Docker com Python 
+- É fácil usar Docker com Python
