@@ -12,14 +12,6 @@ globo.com
 - github.com/andrewsmedina
 - Docker user before it was cool
 
-* Docker
-
-- build, deploy e execute qualquer aplicação em qualquer lugar
-
-* Containers
-
-* Containers
-
 * O desafio
 
 .image the-challenge.png
@@ -47,6 +39,14 @@ globo.com
 * Container como solução
 
 .image eliminates-matrix-from-hell.png
+
+* Docker
+
+- gere, distribua e execute qualquer aplicação em qualquer lugar
+
+* Containers
+
+< what are containers >
 
 * Criando o primeiro container
 
