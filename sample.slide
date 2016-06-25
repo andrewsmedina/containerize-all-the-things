@@ -94,6 +94,10 @@ globo.com
 
 .code hello.go
 
+* Gerando uma imagem a partir de um container
+
+.code commit.go
+
 * Enviando uma imagem para o Docker hub
 
 .code push.go
