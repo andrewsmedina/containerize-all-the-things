@@ -106,6 +106,10 @@ globo.com
 
 .code alpine.go
 
+* Gerando uma imagem a partir de um Dockerfile
+
+.code build.go
+
 * Usando o Docker com Python
 
 .code docker-py-install.go
@@ -117,6 +121,10 @@ globo.com
 * Containerize all the things?
 
 * Containerize all the things!
+
+* Docker + Flask
+
+.code flask.go
 
 * Docker + Plone
 
